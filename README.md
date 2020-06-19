@@ -2,3 +2,5 @@
 
 
 ## Object
+- To retrieve information for each stock
+- To analyze stocks
