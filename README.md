@@ -2,8 +2,8 @@
 
 
 ## Object
-- To retrieve information for each stock
-- To analyze stocks
+- To fetch information of each Thai stock
+- To analyze Thai stocks
 
 ## Credit
 - https://www.patanasongsivilai.com/blog/stock-thai-python/
